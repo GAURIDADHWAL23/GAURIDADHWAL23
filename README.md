@@ -19,6 +19,7 @@ Welcome to my GitHub profile! I'm **Gauri**, a student and aspiring developer wh
 ---
 
 ## 🛠️ Skills & Technologies
+Python • MySQL • Tally • SQL • Git • GitHub
 
 ### 💻 Programming Languages
 
